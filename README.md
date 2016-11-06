@@ -1,4 +1,6 @@
-![LIFAMI - logo][lifami-logo]
+<p align="center">
+  <img src="https://i1.sumaxi.me/i/lifami.png">
+</p>
 
 Table of Contents
 -----------------
@@ -20,7 +22,7 @@ Courses
 - [TD1 : Nombres complexes et transformations du plan](TD/TD1/)
   - [Sujet](TD/TD1/TD1.pdf)
   - Corrigé[](TD/TD1/TD1-cor.pdf)
-  - Source Code[](TD/TD1/TD1/Code/)
+  - [Source Code](TD/TD1/TD1/Code/)
 - [TD2 : Interpolation](TD/TD2/)
   - [Sujet](TD/TD2/TD2.pdf)
   - Corrigé[](TD/TD2/TD2-cor.pdf)
@@ -109,7 +111,6 @@ Complex translate(Complex p, float dx, float dy);  // Translating an object
 
 
 
-[lifami-logo]: https://i1.sumaxi.me/i/lifami.png
 [grapic]: http://liris.cnrs.fr/alexandre.meyer/grapic/html/index.html
 [sunlib]: https://git.io/vXZXX
 [complex]: https://git.io/vXlKK
