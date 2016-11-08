@@ -16,6 +16,8 @@ Courses
 ### CM
 
 - [CM1 : Nombres complexes / Interpolation et monde discret](CM/CM1.pdf)
+- [CM2a : Culture générale de programmation](CM/CM2a.pdf)
+- [CM2b : Dérivées et mécanique du point / Système de particules](CM/CM2b.pdf)
 
 ### TD
 
