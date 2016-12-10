@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i1.sumaxi.me/i/lifami.png">
+  <img src="https://i1.sumaxi.me/i/lifami.svg" width="100%" height="300">
 </p>
 
 Table of Contents
@@ -110,6 +110,13 @@ Complex scale(Complex p, float cx, float cy, float lambda);  // Scaling an objec
 Complex rotate(Complex p, float cx, float cy, float thetaDeg);  // rotating an object
 Complex translate(Complex p, float dx, float dy);  // Translating an object
   ```
+
+## License
+
+<p align="center">
+  <a href="./LICENSE"><img src="https://i1.sumaxi.me/i/logo.svg" width="100%" height="128"></a>
+  <a href="./LICENSE"><strong>MIT</strong></a>
+</p>
 
 
 
