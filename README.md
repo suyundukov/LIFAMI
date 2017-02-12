@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.nurlan.co/i/lifami.svg" width="100%" height="300">
+  <img src="https://i.nurlan.co/lifami.svg" width="100%" height="300">
 </p>
 
 Table of Contents
@@ -114,7 +114,7 @@ Complex translate(Complex p, float dx, float dy);  // Translating an object
 ## License
 
 <p align="center">
-  <a href="./LICENSE"><img src="https://i.nurlan.co/i/logo.svg" width="100%" height="128"></a>
+  <a href="./LICENSE"><img src="https://i.nurlan.co/logo.svg" width="100%" height="128"></a>
   <a href="./LICENSE"><strong>MIT</strong></a>
 </p>
 
