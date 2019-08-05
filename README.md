@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://i.nurlan.co/lifami.svg" width="100%" height="300">
+  <img src="https://nurlan.co/cdn/lifami.svg" width="100%" height="300">
 </p>
 
 Table of Contents
 -----------------
 
-- [CM](#cm)
-- [TD](#td)
-- [TP](#tp)
+- [Table of Contents](#table-of-contents)
+- [Courses](#courses)
+  - [CM](#cm)
+  - [TD](#td)
+  - [TP](#tp)
 - [Links](#links)
+- [License](#license)
 
 Courses
 -------
@@ -114,7 +117,7 @@ Complex translate(Complex p, float dx, float dy);  // Translating an object
 ## License
 
 <p align="center">
-  <a href="./LICENSE"><img src="https://i.nurlan.co/logo.svg" width="100%" height="128"></a>
+  <a href="./LICENSE"><img src="https://nurlan.co/cdn/logo.svg" width="100%" height="128"></a>
   <a href="./LICENSE"><strong>MIT</strong></a>
 </p>
 
